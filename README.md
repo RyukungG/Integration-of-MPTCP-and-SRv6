@@ -3,7 +3,7 @@ This study investigates the integration of SRv6 (Segment Routing over IPv6) with
 
 This repository provides a framework for integrating MPTCP and SRv6, demonstrating improvements in network performance.The integration uses Mininet for simulate the network, FRR and OSPF for dynamic routing protoco, with performance measurements conducted using iperf3.
 
-## Requirements
+## Prerequisite
 - ```Linux Kernel``` version 6.8.0 or greater
 - ```Python``` version 3.12 or greater
 - ```Mininet``` version 2.3 or greater
@@ -11,7 +11,7 @@ This repository provides a framework for integrating MPTCP and SRv6, demonstrati
 - ```Iperf3``` version 3.17 or greater
 
 ## Installation
-1. Make sure that you have all the requirements
+1. Make sure that you have all the prerequisite
 2. Clone the repository:
     ```sh
     git clone https://github.com/RyukungG/Integration-of-MPTCP-and-SRv6.git
