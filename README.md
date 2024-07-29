@@ -1,5 +1,5 @@
 # A Study of Network Performance through SRv6 and MPTCP Integration
-This study investigates the integration of SRv6 (Segment Routing over IPv6) with MPTCP (Multipath TCP) to enable he concurrent use of multiple network routes. SRv6 provides a flexible and scalable routing architecture, while MPTCP allows for the distribution of traffic across multiple paths. By combining these technologies, this study aim to demonstrate improvement in network performance. This study is part of an internship at NAIST.
+This study investigates the integration of SRv6 (Segment Routing over IPv6) with MPTCP (Multipath TCP) to enable he concurrent use of multiple network routes. SRv6 provides a flexible and scalable routing architecture, while MPTCP allows for the distribution of traffic across multiple paths. By combining these technologies, this study aim to demonstrate improvement in network performance. This study is part of an internship at NAIST SDLab.
 
 This repository provides a framework for integrating MPTCP and SRv6, demonstrating improvements in network performance.The integration uses Mininet for simulate the network, FRR and OSPF for dynamic routing protoco, with performance measurements conducted using iperf3.
 
