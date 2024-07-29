@@ -1,0 +1,110 @@
+router
+node          		Longitude              	Latitude
+Sunnyvale       	-122.038258            	37.371612
+Nashville           	-86.778365             	36.167783
+Raleigh                 -78.642669             	35.785510
+Chicago			-87.632409             	41.884150
+El_Paso                 -106.487494            	31.759165
+Denver                  -104.992259            	39.740010
+Dallas              	-96.795404       	32.778155
+Louisville          	-85.766404             	38.254860
+Vancouver           	-123.114034            	49.260440
+Washington		-77.031959             	38.890370
+Indianapolis		-86.149964             	39.766910
+Pittsburgh		-79.997459             	40.438335
+Baton_Rouge		-91.186994 		30.443335
+Albuquerque		-106.648639		35.084180
+Los_Angeles		-118.245319		34.053490
+Atlanta             	-84.391109 		33.748315
+Memphis			-90.048929		35.149680
+Jacksonville		-81.655799		30.331380
+Miami			-80.237419		25.728985
+Kansas_City		-94.583062		39.102960
+Missoula		-113.996234		46.872780
+Philadelphia		-75.162369		39.952270
+Tucson			-110.969754		32.221553
+Buffalo			-78.878464		42.885440
+Houston			-95.369784		29.760450
+Boston			-71.056699		42.358635
+Minneapolis		-93.264929		44.979035
+New_York		-74.007124		40.714550
+Salt_Lake_City		-111.888229		40.759505
+Cleveland		-81.690459		41.504365
+Jackson			-90.180489             32.298690
+Portland		-122.675629		45.511795
+Seattle			-122.329439		47.603560
+Ashburn			-77.483151		39.051631
+
+link
+source           dest              bandwidth          delay
+Baton_Rouge	Houston		100		0.00204694783608
+Baton_Rouge	Jacksonville	100		0.00456949380551
+Jackson		Houston		100		0.00284566493052
+Jackson		Memphis		100		0.00158599557917
+Chicago		Indianapolis	100		0.00133187913866
+Chicago		Kansas_City 	100		0.00331874650553
+Chicago		Minneapolis 	100		0.00285011350871
+Chicago		Cleveland	100		0.00247492350823
+Philadelphia	New_York	100		0.000647444847461
+Philadelphia	Washington	100		0.000996457184534
+Denver		Salt_Lake_City 	100		0.00297931089856
+Denver		Albuquerque 	100		0.00268931115862
+Denver		Kansas_City	100		0.00448138328355
+Dallas		Houston 	100		0.00180903682744
+Dallas		Kansas_City 	100		0.00365378773086
+Louisville	Indianapolis 	100		0.000856698970117
+Louisville	Nashville 	100		0.00124365080058
+Vancouver	Seattle 	100		0.000965416043264
+Pittsburgh 	Ashburn 	100		0.00132244912187
+Pittsburgh	Cleveland	100		0.000925216222223
+Nashville	Memphis 	100		0.00158177964829
+Nashville	Atlanta 	100		0.00172953712766
+Albuquerque	El_Paso 	100		0.00184984438604
+Ashburn		Washington 	100		0.000214615170369
+El_Paso		Houston		100		0.00542305229028
+El_Paso		Tucson		100		0.00212865744257
+Los_Angeles	Tucson 		100		0.00353544662046
+Los_Angeles	Salt_Lake_City 	100		0.00466350974211
+Los_Angeles	Sunnyvale	100		0.00251606024676
+Atlanta		Jacksonville 	100		0.00229520919374
+Atlanta		Raleigh 	100		0.00285823964214
+Jacksonville	Miami		100		0.00265129584621
+Missoula	Seattle 	100		0.0031696747202
+Missoula	Minneapolis 	100		0.00806094862634
+Raleigh		Washington 	100		0.00186690682833
+Sunnyvale	Portland	100		0.00453276912314
+Sunnyvale	Salt_Lake_City 	100		0.00476461962969
+Buffalo		Boston		100		0.00321163171633
+Buffalo		Cleveland 	100		0.00138931970871
+Boston		New_York 	100		0.00153034096066
+Salt_Lake_City	Seattle		100		0.00563002904129
+Portland	Seattle		100		0.00117028754659
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
