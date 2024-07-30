@@ -41,7 +41,7 @@ Go to the repository directory and you can run these file:
 - ```os3e_map.py```: This file for creating a visual representation of the OS3E topology.
 
 ## Project Structure
-- ```base_node```:  Base class for network nodes.
+- ```base_node.py```:  Base class for network nodes.
 - ```FRR.py```: Base class for FRR nodes.
 - ```os3e.py```: Class for get OS3E topology data from OS3E.txt
 - ```topology.py```: Class with function for creating network topology.
