@@ -35,7 +35,7 @@ This repository provides a framework for integrating MPTCP and SRv6, demonstrati
     ```
 
 ## Run the application
-Go to the repository directory and you can run these file:
+Go to the repository directory, create Log directory for collect log file and you can run these file:
 - ```main.py```: This file for run the mininet of small-scale topology that allows for easy controlled, and detailed analysis.
     - You can config you own topology here
 
