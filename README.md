@@ -29,7 +29,7 @@ This repository provides a framework for integrating MPTCP and SRv6, demonstrati
     ```sh
     pip install -r requirements.txt
     ```
-- To Then exit the environment then use the command:
+- To exit the environment then use the command:
     ```sh
     deactivate
     ```
